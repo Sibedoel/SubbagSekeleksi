@@ -1,0 +1,10 @@
+body {
+  min-height: 3000px;
+}
+.jumbrotron {
+  padding-top: 20rem;
+  background-color: aquamarine;
+}
+
+#projects {
+}
